@@ -72,13 +72,9 @@ Full code is available in customer_behavior_model.ipynb
 Output / Results
 The model gives the following performance metrics:
 
-Accuracy: ~X.XX%
-
-Precision: ~X.XX
-
-Recall: ~X.XX
-
-(Paste confusion matrix heatmap and classification report screenshots here.)
+Accuracy:  0.60
+Precision: 0.50
+Recall:    0.12
 
 Learning Outcomes
 Learned how to preprocess real-world data.
