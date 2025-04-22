@@ -72,6 +72,7 @@ Full code is available in customer_behavior_model.ipynb
 Output / Results
 The model gives the following performance metrics:
 
+
 Accuracy:  0.60
 Precision: 0.50
 Recall:    0.12
